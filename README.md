@@ -5,4 +5,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caiolucasb&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucasb&layout=compact)](https://github.com/caiolucasb/github-readme-stats&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucasb&theme=radical&layout=compact)](https://github.com/caiolucasb/github-readme-stats)
